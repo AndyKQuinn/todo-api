@@ -1,0 +1,6 @@
+database:
+  host: <insertMongoCluster>
+  name: test
+  collection: todolist
+  username: <username>
+  password: <password>
